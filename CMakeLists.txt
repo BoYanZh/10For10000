@@ -4,4 +4,4 @@ add_subdirectory(bmm)
 add_subdirectory(yaa)
 add_subdirectory(yhh)
 
-
+add_subdirectory(input_parser)
