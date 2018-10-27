@@ -1,6 +1,5 @@
 cmake_minimum_required(VERSION 2.7)
 
-add_subdirectory(bmm)
 add_subdirectory(yaa)
 add_subdirectory(yhh)
 
