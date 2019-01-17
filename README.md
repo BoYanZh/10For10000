@@ -1,5 +1,9 @@
 # 10 For 10000 Algorithms
 
+## Conclusion
+
++ The problem is solved. It is proved that any two steps of the operation can be exchanged while having the same result, which can sharply reduce time complexity of the algorithm.
+
 ## Test Case Format
 
 + First line: \<row number m\> \<column number n\>
